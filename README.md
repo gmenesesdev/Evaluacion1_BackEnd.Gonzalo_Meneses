@@ -58,5 +58,8 @@ Esta es la solucion de un CRUD completa según lo visto en clase
             └── index.php
         └── query.sql
         └── version1.php
+```
+
+## Imagen Arquitectura
 
 ![](/img/arquitectura.drawio.png)
