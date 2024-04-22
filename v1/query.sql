@@ -11,14 +11,6 @@ CREATE TABLE mantenedor(
 );
 
 INSERT INTO mantenedor (id, nombre) VALUES 
-(1, 'Ejemplo 1'),
-(2, 'Ejemplo 2'),
-(3, 'Ejemplo 3');
-
--- CRUD
-
--- GET / ALL
-SELECT id, nombre, activo FROM mantenedor;
--- GET / BY ID
-SELECT id, nombre, activo FROM mantenedor WHERE id = 3;
--- POST
+(1, 'Dato 1'),
+(2, 'Dato 2'),
+(3, 'Dato 3');
